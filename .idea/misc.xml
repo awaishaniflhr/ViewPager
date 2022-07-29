@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/92301/AndroidStudioProjects/ViewPagerDotsNavigation/app/src/main/res/drawable/backround_blue.xml" value="0.135" />
+        <entry key="..\:/Users/92301/AndroidStudioProjects/ViewPagerDotsNavigation/app/src/main/res/drawable/default_dot.xml" value="0.135" />
+        <entry key="..\:/Users/92301/AndroidStudioProjects/ViewPagerDotsNavigation/app/src/main/res/drawable/ic_launcher_background.xml" value="0.135" />
+        <entry key="..\:/Users/92301/AndroidStudioProjects/ViewPagerDotsNavigation/app/src/main/res/drawable/selected_dot.xml" value="0.135" />
+        <entry key="..\:/Users/92301/AndroidStudioProjects/ViewPagerDotsNavigation/app/src/main/res/drawable/tab_selector.xml" value="0.135" />
+        <entry key="..\:/Users/92301/AndroidStudioProjects/ViewPagerDotsNavigation/app/src/main/res/layout/activity_main.xml" value="0.20427305888483585" />
+        <entry key="..\:/Users/92301/AndroidStudioProjects/ViewPagerDotsNavigation/app/src/main/res/layout/item.xml" value="0.20427305888483585" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="true" project-jdk-name="14" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
